@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7870AE96B55BA6B8DA4BC5B84975EBC5DF2A6259",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7870AE96B55BA6B8DA4BC5B84975EBC5DF2A6259" : 9223372036854775807,
+    "B5C2CD554EF8F11F10C378C80A9F3BFA509482B1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "387E1C60-9F9D-4B02-BA84-805B4F5FA203",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7870AE96B55BA6B8DA4BC5B84975EBC5DF2A6259" : "BucketList_refactor\/",
+    "B5C2CD554EF8F11F10C378C80A9F3BFA509482B1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BucketList",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BucketList.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/havishat\/Bucketlist.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7870AE96B55BA6B8DA4BC5B84975EBC5DF2A6259"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/havishat\/Tipster.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5C2CD554EF8F11F10C378C80A9F3BFA509482B1"
+    }
+  ]
+}
